@@ -6,7 +6,6 @@ console.log("Bem-vindo à " + nomeCantina);
 let salgados = 20;
 console.log("Temos " + salgados + " salgados disponíveis.");
 
-// Preço fixo do salgado
 const precoSalgado = 5;
 console.log("Cada salgado custa R$" + precoSalgado);
 // Atualizando o número de salgados e calculando quanto foi vendido
